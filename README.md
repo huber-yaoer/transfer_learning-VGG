@@ -18,3 +18,4 @@
 VGG16参数来源：https://pan.baidu.com/s/1Dnz11zVrpWhKmUIAOm33-w
 放在for_transfer_learning目录下，527.8M
 
+如有疑问，可参考：https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/2-9-transfer-learning/
